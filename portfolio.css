@@ -145,6 +145,10 @@ body {
     background-color:  var(--kprimary4);
 }
 
+#keycourses .card {
+    background-color:  var(--kprimary4);
+}
+
 #achievements .card {
     background-color:  var(--kprimary4);
 }
